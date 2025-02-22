@@ -1,0 +1,12 @@
+{
+  "name": "Segoe Fluent Icons Search",
+  "id": "1474655656784432899",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html",
+  "documentAccess": "dynamic-page",
+  "networkAccess": {
+    "allowedDomains": ["none"]
+  },
+  "editorType": ["figma"]
+}
