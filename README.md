@@ -6,12 +6,23 @@ This plugin requires [Microsoft’s Segoe Fluent Icons font](https://learn.micro
 - Windows 11: No action needed—the font is preinstalled.
 - Windows 10 & macOS: [Download the font from Microsoft](https://learn.microsoft.com/en-us/windows/apps/design/downloads/#fonts) for use in design and development.
 
+---
+
+# ⬇️ Install
+Install the plugin from the [Figma Community](https://fig.page/fluent)
+
+[![Figma Community](https://cdn.cottle.cloud/GitHub/button-figma.svg)](https://fig.page/fluent)
+
+---
+
 # 🔎 Segoe Fluent Icons Search
 Segoe Fluent Icons Search makes working with the Fluent icons font in Figma a breeze.
 - Quickly search Microsoft’s Segoe Fluent Icons
 - Click to copy any icon glyph
 - Paste into text layers for seamless use
 - Includes 1,470+ glyphs
+
+---
 
 # 🙋 FAQs
 ► **Can I use this with macOS?**
